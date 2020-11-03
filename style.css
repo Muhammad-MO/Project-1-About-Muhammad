@@ -1,4 +1,39 @@
-.b{
-color: red;
-background-color: beige;
-}
+.container {
+    height: 100vh;
+    width: 100vw;
+    background-color: lightblue;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .box {
+    height: 150px;
+    width: 150px;
+    margin: 10px;
+  }
+  
+  .box2 {
+    height: 4000px;
+    width: 300px;
+    margin: 10px;
+  }
+  
+  .red {
+    background-color: red;
+    
+  }
+  .blue {
+    background-color: blue;
+  }
+  .yellow {
+    background-color: yellow;
+  }
+  .green {
+    background-color: green;
+  }
+  .pink {
+    background-color: pink;
+  }
+  
