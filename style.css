@@ -1,3 +1,7 @@
+body {
+    margin: 0;
+  }
+
 .container {
     height: 100vh;
     width: 100vw;
@@ -15,14 +19,15 @@
   }
   
   .box2 {
-    height: 4000px;
-    width: 300px;
-    margin: 10px;
+    height: 100vh;
+    width:300px;
+    margin: 0;
+    position:absolute;
+    left:0;
   }
   
   .red {
-    background-color: red;
-    
+    background-color:#33E9F0;
   }
   .blue {
     background-color: blue;
@@ -33,7 +38,9 @@
   .green {
     background-color: green;
   }
-  .pink {
+  .pink {body {
+    margin: 0;
+  }
     background-color: pink;
   }
   
