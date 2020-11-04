@@ -1,110 +1,40 @@
 body {
-    margin: 0;
-  }
+  margin: 0;
+}
 
-/*.container {
-    height: 100vh;
-    width: 100vw;
-    background-color: lightblue;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-  }*/
+.container {
+  height: 100vh;
+  width: 100vw;
+  background-color: lightblue;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
 
-  /*.container2 {
-    height: 100vh;
-    width: 100vw;
-    background-color:#255F7A;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-  }*/
+.box {
+  height: 200px;
+  width: 200px;
+  margin: 10px;
+}
 
-  
-  .box1 {
-    height: 100vh;
-    width: 300vh;
-  }
+.red {
+  background-color: red;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  text-align: center;
+  background-image: url("image/muhammad.jpg");
+  background-size: 200px 200px;
+}
 
-  .box1a {
-    width: 300vh;
-    background-image:url("image/background image.jpeg");
-    height:100vh;
-  }
-  
-  .box2 {
-    height: 100vh;
-    width:300px;
-    position:absolute;
-    position:fixed;
-    left:0;
-  }
-
-  .box3 {
-    height:85vh;
-    width:120vh;
-    position:absolute;
-    right:40px;
-    margin-top:90px;
-  }
-
-  
-  .leftcolumn {
-    background-color:#33E9F0;
-  }
-  /*.section1{
-    background-color: purple;
-    margin:0;
-  }*/
-  
-  .section1{
-    background-color:#17C2F0; 
-  }
-  .section2{
-    background-color:lightblue;  
-  }
-  .section3{
-    background-color:#7AA3DD;
-  }
-
-  .topbox{
-    background-color:lightgrey;
-  }
-
-
-  .right{
-    display:block;
-    position:absolute;
-    right:0;
-  }
-
-  .architect{
-    font-family: 'Indie Flower', cursive;
-    font-size: 25px;
-    text-decoration: none;
-    
-  }
-  .architect2{
-
-    font-family: 'Libre Baskerville', serif;
-    font-size: 70px;
-    
-  }
-  architect3{
-
-    font-family: 'Indie Flower', cursive;
-    font-size: 40px;
-    
-  }
-  architect4{
-
-    font-family: 'Architects Daughter', cursive;
-    font-size: 15px;
-    
-  }
-
- 
-
-  
+.blue {
+  background-color: blue;
+}
+.yellow {
+  background-color: yellow;
+}
+.green {
+  background-color: green;
+}
+.pink {
+  background-color: pink;
+}
