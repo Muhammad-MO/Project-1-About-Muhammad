@@ -18,23 +18,19 @@ body {
 }
 
 .red {
-  background-color: red;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 20px;
-  text-align: center;
-  background-image: url("image/muhammad.jpg");
-  background-size: 200px 200px;
+  background-color: #80D1F7
+  
 }
 
 .blue {
-  background-color: blue;
+  background-color:#36B7F5;
 }
 .yellow {
-  background-color: yellow;
+  background-color: #1A5875;
 }
 .green {
-  background-color: green;
+  background-color:#3D6375;
 }
 .pink {
-  background-color: pink;
+  background-color:#2B92C2;
 }
