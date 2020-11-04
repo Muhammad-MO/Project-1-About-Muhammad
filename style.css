@@ -53,19 +53,21 @@ body {
     margin:0;
   }*/
   
-  .section2{
+  .section1{
     background-color:#17C2F0; 
   }
-  .section3{
+  .section2{
     background-color:lightblue;  
   }
-  .section4{
+  .section3{
     background-color:#7AA3DD;
   }
 
   .topbox{
-    background-color:#AAD9E3;
+    background-color:lightgrey;
   }
+
+
   .right{
     display:block;
     position:absolute;
