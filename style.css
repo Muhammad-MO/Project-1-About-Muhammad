@@ -27,6 +27,12 @@ body {
     height: 100vh;
     width: 300vh;
   }
+
+  .box1a {
+    width: 300vh;
+    background-image:url("image/background image.jpeg");
+    height:100vh;
+  }
   
   .box2 {
     height: 100vh;
@@ -37,7 +43,7 @@ body {
   }
 
   .box3 {
-    height:70vh;
+    height:85vh;
     width:120vh;
     position:absolute;
     right:40px;
@@ -86,3 +92,19 @@ body {
     font-size: 70px;
     
   }
+  architect3{
+
+    font-family: 'Indie Flower', cursive;
+    font-size: 40px;
+    
+  }
+  architect4{
+
+    font-family: 'Architects Daughter', cursive;
+    font-size: 15px;
+    
+  }
+
+ 
+
+  
