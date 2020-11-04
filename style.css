@@ -29,7 +29,7 @@ body {
   }
   
   .box2 {
-    height: 100%;
+    height: 100vh;
     width:300px;
     position:absolute;
     position:fixed;
@@ -37,10 +37,11 @@ body {
   }
 
   .box3 {
-    height: 200vh;
-    width:200vhh;
-    color: white;
-  
+    height:70vh;
+    width:150vh;
+    position:absolute;
+    right:100px;
+    margin-top:90px;
   }
 
   
@@ -53,14 +54,33 @@ body {
   }*/
   
   .section2{
-    background-color:#00A5E0;
-    
+    background-color:#17C2F0; 
   }
   .section3{
-    background-color:#4B68FB;
-    
+    background-color:lightblue;  
   }
   .section4{
-    background-color:#0048AD;
+    background-color:#7AA3DD;
+  }
+
+  .topbox{
+    background-color:#AAD9E3;
+  }
+  .right{
+    display:block;
+    position:absolute;
+    right:0;
+  }
+
+  .architect{
+    font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+    text-decoration: none;
+    
+  }
+  .architect2{
+
+    font-family: 'Libre Baskerville', serif;
+    font-size: 70px;
     
   }
