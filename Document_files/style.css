@@ -5,13 +5,13 @@ body {
 .header{
   background-color:lightskyblue;
   text-align: center;
-  font-family: 'Poiret One', cursive;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   
 }
 .container {
   
   height: 100vh;
-  width: 100vw;
+  width: 120vw;
   background-color: lightblue;
   display: flex;
   flex-wrap: wrap;
@@ -62,24 +62,21 @@ body {
 
 .topnav {
   background-color:#36B7F5;
-  width:100vw;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  font-size: 35px;
-  border: 14px black;
+  block-size: inherit;
   display: inline-block;
   
   
   
 }
 .topnav a {
-  
+  color: #f2f2f2;
   text-align: center;
   padding:16px;
   text-decoration: none;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-size: 35px;
-  border: 14px black;
-  border-radius: 15px;  
+  border: 4px black;
+  border-radius: 5px;  
   display: inline-block;
 
 }
@@ -93,36 +90,9 @@ div.d {
 }
 
 div.bk{
-  background-image: url("image/lemons.png");
-  background-repeat: No-repeat;
-  height:100vh;
-  width:90vw;
-   
-}
-
-
-div.opaque{
-  opacity:0.33
-}
-
-div.wk{
-  background-image: url("image/workblue3.png");
+  background-image: url("image/lemons.jpeg");
   background-repeat: No-repeat;
   height:150vh;
   width:95vw;
-  padding:20px;
-}
-
-.header2{
-  font-family: 'Poiret One', cursive;
-  font-size:50px;
-}
-.para{
-  font-family: 'Pragati Narrow', sans-serif;
-  font-size:50px;
-}
-
-.para2{
-  font-family: 'Pragati Narrow', sans-serif;
-  font-size:30px;
+  
 }
