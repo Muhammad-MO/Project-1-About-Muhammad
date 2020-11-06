@@ -29,15 +29,64 @@ body {
 
 
 .box {
-  height: 200px;
-  width: 200px;
+  height: 300px;
+  width: 250px;
   margin: 10px;
+ 
 }
+
+.pic1{
+
+  background-image: url("image/muhammad.jpg");
+  background-repeat: No-repeat;
+ background-position:center;
+}
+
+.pic2{
+
+  background-image: url("image/moAsy wedding photo.jpg");
+  background-repeat: No-repeat;
+ background-position:center;
+ background-size:100%;
+}
+
+.pic3{
+
+  background-image: url("image/moAsy_aidilfitri.jpg");
+  background-repeat: No-repeat;
+ background-position:center;
+ background-size:100%;
+}
+
+.pic4{
+
+  background-image: url("image/USA\ Holiday 4.jpg");
+  background-repeat: No-repeat;
+ background-position:center;
+ background-size:100%;
+ 
+}
+
+.pic5{
+
+  background-image: url("image/USA\ Holiday 3.jpg");
+  background-repeat: No-repeat;
+ background-position:center;
+ background-size:100%;
+}
+
+
+
+
+
+
+
 
 .aboutmebox{
   height: 100vh;
   width: 95vw;
   margin: 10px;
+  background-color: lightblue;
   
 }
 
