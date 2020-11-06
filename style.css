@@ -47,20 +47,21 @@ padding:10px;
 .container3-fluid{
   height:30vw;
   width:100vw;
-  background-color: lightcyan;
+  background-color:beige;
   display: flex;
   flex-wrap: wrap;
   left:0;
   position:absolute;
   padding-left: 10px;
   
+  
 
 }
 
 .container4-fluid{
   height:10vw;
-  width:10vw;
-  background-color: lightcyan;
+  width:20vw;
+  background-color:beige;
   display: flex;
   flex-wrap: wrap;
   justify-content:left;
@@ -119,12 +120,6 @@ padding:10px;
  background-position:center;
  background-size:100%;
 }
-
-
-
-
-
-
 
 
 .aboutmebox{
