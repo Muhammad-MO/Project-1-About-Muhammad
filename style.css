@@ -5,12 +5,19 @@ body {
 .header{
   background-color:lightskyblue;
   text-align: center;
-  font-family: 'Poiret One', cursive;
+  font-family: 'Oswald', sans-serif;
   width:100vw;
+  padding-top: 20px;
   
 }
 
 
+
+.header2{
+  font-family: 'Oswald', sans-serif;
+  font-size:50px;
+  background-color:lightskyblue;
+}
 
 .margin{
   margin-top:0px;
@@ -18,11 +25,11 @@ body {
   font-size: 50px;
  
 }
-.container-fluid {
+.container{
   
   height: 100vh;
   width: 100vw;
-  background-color:lightcyan;
+  background-color:lightskyblue;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -33,7 +40,7 @@ body {
   top:10px;
 
 }
-.container2-fluid {
+.container2{
   
   height: 140vh;
   width: 99vw;
@@ -41,27 +48,24 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content:right;
-padding:10px;
+padding:0px;
 }
 
-.container3-fluid{
-  height:30vw;
+.contact{
+  height:20vh;
   width:100vw;
-  background-color:beige;
-  display: flex;
-  flex-wrap: wrap;
-  left:0;
+  background-color:lightblue;
+  justify-content: left;
   position:absolute;
-  padding-left: 10px;
-  
-  
+  font-size:30px;
+  font-family: 'Open Sans Condensed', sans-serif;
 
 }
 
-.container4-fluid{
-  height:10vw;
+.container4{
+  height:10vh;
   width:20vw;
-  background-color:beige;
+  background-color:lightblue;
   display: flex;
   flex-wrap: wrap;
   justify-content:left;
@@ -71,6 +75,13 @@ padding:10px;
 
 }
 
+.container5{
+  height:50vh;
+  width:40vw;
+  background-color:lightblue;
+  display: flex;
+  flex-wrap: wrap;
+}
 
 .box {
   height: 300px;
@@ -121,6 +132,56 @@ padding:10px;
  background-size:100%;
 }
 
+/* pictues for My Interest Page*/
+
+.pic6{
+
+  background-image: url("image/lift.png");
+  background-repeat: No-repeat;
+ background-position:center;
+ background-position-y:10%;
+ background-size: 100%;
+ 
+ 
+}
+
+.pic7{
+
+  background-image: url("image/manutd.png");
+  background-repeat: No-repeat;
+ background-position:center;
+ background-size:120%;
+ background-position-y:10%;
+}
+
+.pic8{
+
+  background-image: url("image/rock.png");
+  background-repeat: No-repeat;
+ background-position:center;
+ background-size:100%;
+}
+
+.pic9{
+
+  background-image: url("image/pancakes.jpg");
+  background-repeat: No-repeat;
+ background-position:center;
+ background-size:140%;
+ 
+}
+
+.pic10{
+
+  background-image: url("image/icecream.jpg");
+  background-repeat: No-repeat;
+ background-position:center;
+ background-size:100%;
+}
+
+
+
+/*Pictures for my Interest Page*/
 
 .aboutmebox{
   height: 100vh;
@@ -148,6 +209,9 @@ padding:10px;
   background-color:#2B92C2;
 }
 
+.red{
+  background-color:red;
+}
 
 .topnav {
   background-color:#36B7F5;
@@ -202,10 +266,6 @@ div.wk{
   padding:20px;
 }
 
-.header2{
-  font-family: 'Poiret One', cursive;
-  font-size:50px;
-}
 .para{
   font-family: 'Pragati Narrow', sans-serif;
   font-size:50px;
