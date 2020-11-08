@@ -5,7 +5,7 @@ body {
 .header{
   background-color:lightskyblue;
   text-align: center;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Anton', sans-serif;
   width:100vw;
   padding-top: 20px;
   
@@ -14,15 +14,18 @@ body {
 
 
 .header2{
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Anton', sans-serif;
   font-size:50px;
-  background-color:lightskyblue;
+  background-color:lightblue;
 }
 
 .margin{
   margin-top:0px;
   margin-bottom:0px;
   font-size: 50px;
+  background-color:lightskyblue;
+  padding-top:5px;
+  
  
 }
 .container{
@@ -84,14 +87,10 @@ padding:0px;
   flex-wrap: wrap;
 }
 
-.container6{
-  height:50vh;
-  width:100vw;
-  
-} 
+
 
 .box {
-  height: 200px;
+  height: 250px;
   width: 200px;
   margin: 10px;
   position: relative;
@@ -224,7 +223,7 @@ padding:0px;
   background-color:#36B7F5;
   width:100vw;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  font-size: 35px;
+  font-size: 10px;
   border: 14px black;
   display: inline-block;
   
@@ -237,7 +236,7 @@ padding:0px;
   padding:16px;
   text-decoration: none;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  font-size: 35px;
+  font-size: 25px;
   border: 14px black;
   border-radius: 15px;  
   display: inline-block;
@@ -281,14 +280,22 @@ div.wk{
 .para2{
   font-family: 'Pragati Narrow', sans-serif;
   font-size:30px;
+  position:absolute;
+  bottom:-10vh;
 }
-
+.para3{
+  font-family: 'Pragati Narrow', sans-serif;
+  font-size:30px;
+  position:absolute;
+  left:0;
+  bottom:20px;
+}
 
     
 
 .video {
- 
-  width:200px;
+ width: 50%;
+ height:50%px;
   
   position: fixed;
   overflow: hidden;
