@@ -38,6 +38,7 @@ body {
   background-size: 110%;
   position:relative;
   top:10px;
+  
 
 }
 .container2{
@@ -83,9 +84,15 @@ padding:0px;
   flex-wrap: wrap;
 }
 
+.container6{
+  height:50vh;
+  width:100vw;
+  
+} 
+
 .box {
-  height: 300px;
-  width: 250px;
+  height: 200px;
+  width: 200px;
   margin: 10px;
   position: relative;
   top:150px;
@@ -275,3 +282,15 @@ div.wk{
   font-family: 'Pragati Narrow', sans-serif;
   font-size:30px;
 }
+
+
+    
+
+.video {
+ 
+  width:200px;
+  
+  position: fixed;
+  overflow: hidden;
+}
+
