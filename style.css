@@ -313,6 +313,6 @@ a:hover {
 }
 
 a:active {
-  background-color: greenyellow;
+  background-color:lightyellow;
   text-decoration: none;
 }
