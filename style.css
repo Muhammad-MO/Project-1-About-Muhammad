@@ -16,7 +16,7 @@ body {
 .header2{
   font-family: 'Anton', sans-serif;
   font-size:50px;
-  background-color:lightblue;
+  background-color:lightskyblue;
 }
 
 .margin{
@@ -220,7 +220,7 @@ padding:0px;
 }
 
 .topnav {
-  background-color:#36B7F5;
+  background-color:lightskyblue;
   width:100vw;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-size: 10px;
@@ -301,3 +301,18 @@ div.wk{
   overflow: hidden;
 }
 
+a:link {
+  color:blue;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color:lightblue;
+  opacity:50%;
+  text-decoration: none;
+}
+
+a:active {
+  background-color: greenyellow;
+  text-decoration: none;
+}
