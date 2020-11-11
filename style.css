@@ -16,7 +16,7 @@ body {
 .header2{
   font-family: 'Anton', sans-serif;
   font-size:50px;
-  background-color:lightskyblue;
+  background-color:lightblue;
 }
 
 .margin{
@@ -302,7 +302,7 @@ div.wk{
 }
 
 a:link {
-  color:blue;
+  color:black;
   text-decoration: none;
 }
 
