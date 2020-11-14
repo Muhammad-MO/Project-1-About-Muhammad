@@ -223,8 +223,9 @@ padding:0px;
   background-color:lightskyblue;
   width:100vw;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  font-size: 10px;
+  
   border: 14px black;
+
   display: inline-block;
   
   
@@ -237,7 +238,6 @@ padding:0px;
   text-decoration: none;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-size: 25px;
-  border: 14px black;
   border-radius: 15px;  
   display: inline-block;
 
@@ -315,4 +315,13 @@ a:hover {
 a:active {
   background-color:lightyellow;
   text-decoration: none;
+}
+.button{
+  border-radius:50px;
+  border-color:  black;
+  margin:10px;
+  background-color:lightgray;
+  font-size: 25px;
+  border:10px;
+  padding:10px;
 }
