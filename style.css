@@ -36,17 +36,15 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  background-image: url("image/snowflake.jpeg");
+  background-image: url("image/bluewood.jpg");
   background-repeat: No-repeat;
   background-size: 110%;
-  position:relative;
   top:10px;
-  
 
 }
 .container2{
   
-  height: 140vh;
+  height: 160vh;
   width: 99vw;
   background-color: lightblue;
   display: flex;
@@ -58,8 +56,8 @@ padding:0px;
 .contact{
   height:20vh;
   width:100vw;
-  background-color:lightblue;
-  justify-content: left;
+  background-color:lightpink;
+  
   position:absolute;
   font-size:30px;
   font-family: 'Open Sans Condensed', sans-serif;
@@ -69,7 +67,7 @@ padding:0px;
 .container4{
   height:10vh;
   width:20vw;
-  background-color:lightblue;
+  background-color:lightpink;
   display: flex;
   flex-wrap: wrap;
   justify-content:left;
@@ -80,6 +78,14 @@ padding:0px;
 }
 
 .container5{
+  height:50vh;
+  width:40vw;
+  background-color:lightblue;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.container6{
   height:50vh;
   width:40vw;
   background-color:lightblue;
@@ -142,7 +148,7 @@ padding:0px;
 
 .pic6{
 
-  background-image: url("image/lift.png");
+  background-image: url("image/dumbbell.png");
   background-repeat: No-repeat;
  background-position:center;
  background-position-y:10%;
@@ -153,7 +159,7 @@ padding:0px;
 
 .pic7{
 
-  background-image: url("image/manutd.png");
+  background-image: url("image/football.png");
   background-repeat: No-repeat;
  background-position:center;
  background-size:120%;
@@ -184,8 +190,6 @@ padding:0px;
  background-position:center;
  background-size:100%;
 }
-
-
 
 /*Pictures for my Interest Page*/
 
@@ -220,8 +224,9 @@ padding:0px;
 }
 
 .topnav {
-  background-color:lightskyblue;
+  background-image: url("image/bluewood.jpg");
   width:100vw;
+  
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   
   border: 14px black;
@@ -229,7 +234,7 @@ padding:0px;
   display: inline-block;
   
   
-  
+  s
 }
 .topnav a {
   
@@ -252,43 +257,64 @@ div.d {
 }
 
 div.bk{
-  background-image: url("image/lemons.png");
-  background-repeat: No-repeat;
+  background-image: url("image/bluepink.jpg");
+  background-size:100%;
+  background-repeat:no-repeat;
   height:100vh;
   width:90vw;
+
    
 }
 
 
-div.opaque{
-  opacity:0.33
-}
 
 div.wk{
-  background-image: url("image/workblue3.png");
+  background-image: url("image/bluewood.jpg");
   background-repeat: No-repeat;
   height:150vh;
   width:95vw;
   padding:20px;
+  top:50px; 
 }
+
+
+
 
 .para{
   font-family: 'Pragati Narrow', sans-serif;
   font-size:50px;
+  background-color:skyblue;
+  position:sticky;
 }
 
 .para2{
   font-family: 'Pragati Narrow', sans-serif;
   font-size:30px;
-  position:absolute;
+  
   bottom:-10vh;
 }
 .para3{
   font-family: 'Pragati Narrow', sans-serif;
   font-size:30px;
-  position:absolute;
-  left:0;
-  bottom:20px;
+  bottom:10vh;
+
+  
+}
+.para4{
+  font-family: 'Pragati Narrow', sans-serif;
+  font-size:50px;
+ background-color:lightpink;
+position:sticky;
+  
+}
+
+.para5{
+  font-family: 'Pragati Narrow', sans-serif;
+  font-size:50px;
+  bottom:10vh;
+  background-color:lightyellow;
+  
+  
 }
 
     
