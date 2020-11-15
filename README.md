@@ -17,3 +17,33 @@ The goal of the site is to enable the user to find out interesting and useful fa
 2. CSS
 3. Bootstrap 
 
+# Features
+The overall website's look is achieved as planned. Improvements could be made to each pages by putting in animations and adding more sections
+
+
+# Testing
+The mouser over function turns opaque when moused over and the button changes color after being clicked.
+
+The page was built with flexbox function in mind and works as intended
+
+The "My Favourite Website" section has icons which will bring the user to 5 different websites when being clicked and the boxes turns opaque when being hovered
+
+
+# Deployment
+
+# Content
+
+All content was authored by me
+
+# Media
+Pictures and Icon was taken from the following
+
+Pexels for the following
+1) Blue Wod Background
+
+2)icons8 for the icons on the "My Favourite Websites" page.
+
+
+
+
+
