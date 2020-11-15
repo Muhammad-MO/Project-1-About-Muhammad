@@ -16,7 +16,8 @@ body {
 .header2{
   font-family: 'Anton', sans-serif;
   font-size:50px;
-  background-color:lightblue;
+  background-image: url("image/bluewood.jpg");
+  background-repeat: No-repeat;
 }
 
 .margin{
@@ -46,7 +47,8 @@ body {
   
   height: 160vh;
   width: 99vw;
-  background-color: lightblue;
+  background-image: url("image/bluewood.jpg");
+  background-repeat: No-repeat;
   display: flex;
   flex-wrap: wrap;
   justify-content:right;
@@ -159,7 +161,7 @@ padding:0px;
 
 .pic7{
 
-  background-image: url("image/football.png");
+  background-image: url("image/Mancutd.png");
   background-repeat: No-repeat;
  background-position:center;
  background-size:120%;
@@ -168,7 +170,7 @@ padding:0px;
 
 .pic8{
 
-  background-image: url("image/rock.png");
+  background-image: url("image/bbcuk.png");
   background-repeat: No-repeat;
  background-position:center;
  background-size:100%;
@@ -176,16 +178,16 @@ padding:0px;
 
 .pic9{
 
-  background-image: url("image/pancakes.jpg");
+  background-image: url("image/pancake.png");
   background-repeat: No-repeat;
  background-position:center;
- background-size:140%;
+ background-size:120%;
  
 }
 
 .pic10{
 
-  background-image: url("image/icecream.jpg");
+  background-image: url("image/icecream.png");
   background-repeat: No-repeat;
  background-position:center;
  background-size:100%;
@@ -197,7 +199,7 @@ padding:0px;
   height: 100vh;
   width: 95vw;
   margin: 10px;
-  background-color: lightblue;
+  background-color:lightpink;
   
 }
 
@@ -207,16 +209,16 @@ padding:0px;
 }
 
 .blue2 {
-  background-color:#36B7F5;
+  background-color:#80D1F7;
 }
 .blue3 {
-  background-color:lightgoldenrodyellow;
+  background-color:#80D1F7;
 }
 .blue4 {
-  background-color:#3D6375;
+  background-color:#80D1F7;
 }
 .blue5 {
-  background-color:#2B92C2;
+  background-color:#80D1F7;
 }
 
 .red{
@@ -234,7 +236,7 @@ padding:0px;
   display: inline-block;
   
   
-  s
+  
 }
 .topnav a {
   
@@ -251,13 +253,12 @@ padding:0px;
 div.d {
   text-align: justify;
   font-size:35px;
-  
  background-repeat:no-repeat;
  
 }
 
 div.bk{
-  background-image: url("image/bluepink.jpg");
+  background-color:lightpink;
   background-size:100%;
   background-repeat:no-repeat;
   height:100vh;
