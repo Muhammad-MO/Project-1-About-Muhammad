@@ -26,9 +26,21 @@ body {
   font-size: 50px;
   background-color:lightskyblue;
   padding-top:5px;
-  
- 
+  animation-name:margin;
+  animation-duration:15s;
+
+
 }
+
+@keyframes margin{
+
+  0%   {background-color:lightskyblue;}
+  25%  {background-color:#F18DFF;}
+  50%  {background-color:#FFDF81;}
+  100% {background-color:#B7E077;}
+  
+}
+
 .container{
   
   height: 100vh;
