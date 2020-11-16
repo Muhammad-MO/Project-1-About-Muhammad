@@ -16,7 +16,8 @@ body {
 .header2{
   font-family: 'Anton', sans-serif;
   font-size:50px;
-  background-image: url("image/bluewood.jpg");
+  background-color:white;
+  /*background-image: url("image/bluewood.jpg");*/
   background-repeat: No-repeat;
 }
 
@@ -49,7 +50,8 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  background-image: url("image/bluewood.jpg");
+  background-color:white;
+  /*background-image: url("image/bluewood.jpg");*/
   background-repeat: No-repeat;
   background-size: 110%;
   top:10px;
@@ -59,7 +61,8 @@ body {
   
   height: 160vh;
   width: 99vw;
-  background-image: url("image/bluewood.jpg");
+  background-color:white;
+  /*background-image: url("image/bluewood.jpg");*/
   background-repeat: No-repeat;
   display: flex;
   flex-wrap: wrap;
@@ -248,7 +251,11 @@ padding:0px;
 
 .topnav {
   background-image: url("image/bluewood.jpg");
-  width:100vw; 
+  width: 1000vw;
+  position:relative;
+  margin:0 auto;
+
+
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   display: inline-block;
 }
@@ -285,7 +292,8 @@ div.bk{
 
 
 div.wk{
-  background-image: url("image/bluewood.jpg");
+  background-color:white;
+  /*background-image: url("image/bluewood.jpg");*/
   background-repeat: No-repeat;
   height:150vh;
   width:95vw;
@@ -301,6 +309,10 @@ div.wk{
   font-size:50px;
   background-color:skyblue;
   position:sticky;
+  border-radius:35px;
+border:solid 5px blue;
+margin:10px;
+
 }
 
 .para2{
@@ -318,9 +330,12 @@ div.wk{
 .para4{
   font-family: 'Pragati Narrow', sans-serif;
   font-size:50px;
- background-color:lightpink;
+ background-color:lightblue;
 position:sticky;
-  
+border-radius:35px;
+border:solid 5px blue;
+margin:10px;
+
 }
 
 
@@ -329,7 +344,18 @@ position:sticky;
   font-family: 'Pragati Narrow', sans-serif;
   font-size:50px;
   bottom:10vh;
-  background-color:lightyellow;
+  background-color:yellow;
+  border-radius:35px;
+border:solid 5px blue;
+margin:10px;
+
+}
+para6{
+  font-family: 'Pragati Narrow', sans-serif;
+  font-size:50px;
+ background-color:lightpink;
+position:sticky;
+
 }
 
     
@@ -377,6 +403,7 @@ a:active {
   margin:10px;
   padding:10px;
   border:5px solid#05ABED;
+
 }
 
 .btn-primary:hover{
