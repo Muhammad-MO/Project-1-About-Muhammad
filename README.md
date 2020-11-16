@@ -42,11 +42,9 @@ All content was authored by me
 # Media
 Pictures and Icon was taken from the following
 
-[Pexels][www.pexels.com] for the following
-1) Blue Wood Background
+[Pexels][www.pexels.com] for Blue Wood background
 
-2)[icons8][www.icons8.com]
-for the icons on the "My Favourite Websites" page.
+[icons8][www.icons8.com] or the icons on the "My Favourite Websites" page.
 
 
 
