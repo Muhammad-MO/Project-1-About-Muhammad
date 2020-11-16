@@ -43,7 +43,7 @@ All content was authored by me
 Pictures and Icon was taken from the following
 
 [Pexels][www.pexels.com] for the following
-1) Blue Wo0d Background
+1) Blue Wood Background
 
 2)[icons8][www.icons8.com]
 for the icons on the "My Favourite Websites" page.
