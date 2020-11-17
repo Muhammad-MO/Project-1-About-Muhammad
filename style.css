@@ -2,7 +2,7 @@ body {
   margin: 0;
   
 }
-
+/* header for "home page"*/
 .header{
   background-color:lightskyblue;
   text-align: center;
@@ -12,7 +12,7 @@ body {
   
 }
 
-
+/* header for "Woek Experience page"*/
 
 .header2{
   font-family: 'Anton', sans-serif;
@@ -21,7 +21,7 @@ body {
   
 }
 
-
+/* Margin for "Step into the world"*/
 .margin{
   margin-top:0px;
   margin-bottom:0px;
@@ -58,7 +58,7 @@ body {
   padding-bottom: 20px;
 }
 
-
+/* Color animation*/
 
 @keyframes margin{
 
@@ -68,7 +68,7 @@ body {
   100% {background-color:#B7E077;}
   
 }
-
+/* Container for home page*/
 .container{
   
   height: 100vh;
@@ -77,7 +77,7 @@ body {
   flex-wrap: wrap; 
   background-color:lightblue;
   background-repeat: No-repeat;
-  padding-left:200px;
+  padding-left:100px;
   top:10px;
 }
 .container2{
@@ -88,7 +88,7 @@ body {
   display: flex;
   flex-wrap: wrap;
 }
-
+/* Contact information at bottom of home page*/
 .contact{
   height:20vh;
   width:100vw;
@@ -99,7 +99,7 @@ body {
   font-family: 'Open Sans Condensed', sans-serif;
 
 }
-
+/* Container for follow me section*/
 .container4{
   height:10vh;
   width:20vw;
@@ -131,11 +131,11 @@ body {
   flex-wrap: wrap;
 }
 
-
+/*box for pictures on home page and Work Experience page*/
 
 .box {
-  height: 250px;
-  width: 200px;
+  height: 350px;
+  width: 250px;
   margin: 10px;
   position: relative;
   top:150px;
@@ -148,7 +148,7 @@ body {
   background-color: #47A2D0;
   opacity:0.5;
 }
-
+/*Pictures for "About me" Page */
 .pic1{
 
   background-image: url("image/muhammad.jpg");
@@ -169,7 +169,7 @@ body {
   background-image: url("image/moAsy_aidilfitri.jpg");
   background-repeat: No-repeat;
  background-position:center;
- background-size:100%;
+ background-size:115%;
 }
 
 .pic4{
@@ -177,7 +177,7 @@ body {
   background-image: url("image/USA\ Holiday 4.jpg");
   background-repeat: No-repeat;
  background-position:center;
- background-size:100%;
+ background-size:110%;
  
 }
 
@@ -204,11 +204,12 @@ body {
 
 .pic7{
 
-  background-image: url("image/Mancutd.png");
+  background-image: url("image/manutd\ B&W.jpg");
   background-repeat: No-repeat;
  background-position:center;
  background-size:120%;
  background-position-y:10%;
+ opacity:2.0;
 }
 
 .pic8{
@@ -236,7 +237,7 @@ body {
  background-size:100%;
 }
 
-/*Pictures for my Interest Page*/
+/*Box for "About me" page*/
 
 .aboutmebox{
   height: 100vh;
@@ -266,10 +267,7 @@ body {
   background-color:#80D1F7;
 }
 
-.red{
-  background-color:red;
-}
-
+/* navigation section*/
 .topnav {
   background-image: url("image/bluewood.jpg");
   width: 100vw;
@@ -325,6 +323,24 @@ div.wk{
 
 
 
+/* Paragraph for "About Me" and button Section under "Work Experience"*/
+
+.para2{
+  font-family: 'Pragati Narrow', sans-serif;
+  font-size:30px; 
+  bottom:-10vh;
+}
+
+/*
+.para3{
+  font-family: 'Pragati Narrow', sans-serif;
+  font-size:30px;
+  bottom:10vh;*/
+
+  
+}
+/* paragraphs box for "Work Experience" Section*/
+
 .para{
   font-family: 'Pragati Narrow', sans-serif;
   font-size:50px;
@@ -335,19 +351,6 @@ border:solid 5px blue;
 margin:10px;
 padding:10px;
 
-}
-
-.para2{
-  font-family: 'Pragati Narrow', sans-serif;
-  font-size:30px; 
-  bottom:-10vh;
-}
-.para3{
-  font-family: 'Pragati Narrow', sans-serif;
-  font-size:30px;
-  bottom:10vh;
-
-  
 }
 .para4{
   font-family: 'Pragati Narrow', sans-serif;
@@ -383,7 +386,7 @@ position:sticky;
 }
 
     
-
+/* video style for "About Me" page*/
 .video {
  width: 50%;
  height:50%px;
@@ -392,20 +395,18 @@ position:sticky;
   overflow: hidden;
 }
 
+/* Link Style */
 a:link {
   color:black;
   text-decoration: none;
 }
-
-
-
 
 a:active {
   background-color:lightyellow;
   text-decoration: none;
 }
 
-
+/* Button Style*/
 .btn-info{
 
   border-color:  black;
@@ -435,4 +436,21 @@ a:active {
   
 background-color:lightblue;
 opacity:0.5;
+}
+
+@media only screen and (min-width: 600px) {
+  /* For tablets: */
+  .col-s-1 {width: 8.33%;}
+  .col-s-2 {width: 16.66%;}
+  .col-s-3 {width: 25%;}
+  .col-s-4 {width: 33.33%;}
+  .col-s-5 {width: 41.66%;}
+  .col-s-6 {width: 50%;}
+  .col-s-7 {width: 58.33%;}
+  .col-s-8 {width: 66.66%;}
+  .col-s-9 {width: 75%;}
+  .col-s-10 {width: 83.33%;}
+  .col-s-11 {width: 91.66%;}
+  .col-s-12 {width: 100%;}
+
 }
