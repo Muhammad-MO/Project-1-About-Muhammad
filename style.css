@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  
 }
 
 .header{
@@ -17,21 +18,47 @@ body {
   font-family: 'Anton', sans-serif;
   font-size:50px;
   background-color:white;
-  /*background-image: url("image/bluewood.jpg");*/
-  background-repeat: No-repeat;
+  
 }
+
 
 .margin{
   margin-top:0px;
   margin-bottom:0px;
   font-size: 50px;
   background-color:lightskyblue;
-  padding-top:5px;
+  padding-top:30px;
   animation-name:margin;
   animation-duration:15s;
-
-
+  width:100vw;
 }
+.margin2{
+  
+  margin-top:0px;
+  margin-bottom:0px;
+  padding-left:500px;
+  font-size: 50px;
+  background-color:lightskyblue;
+  padding-top:30px;
+  animation-name:margin;
+  animation-duration:15s;
+  width:100vw;
+}
+.margin3{
+  
+  margin-top:0px;
+  margin-bottom:0px;
+  font-size: 70px;
+  background-color:lightskyblue;
+  padding-top:30px;
+  animation-name:margin;
+  animation-duration:15s;
+  width:100vw;
+  padding-left: 500px;
+  padding-bottom: 20px;
+}
+
+
 
 @keyframes margin{
 
@@ -46,28 +73,20 @@ body {
   
   height: 100vh;
   width: 100vw;
-  background-color:lightskyblue;
   display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  background-color:white;
-  /*background-image: url("image/bluewood.jpg");*/
+  flex-wrap: wrap; 
+  background-color:lightblue;
   background-repeat: No-repeat;
-  background-size: 110%;
+  padding-left:200px;
   top:10px;
-
 }
 .container2{
   
-  height: 160vh;
-  width: 99vw;
-  background-color:white;
-  /*background-image: url("image/bluewood.jpg");*/
-  background-repeat: No-repeat;
+  height: 110vh;
+  width: 100vw;
+  background-color:lightpink;
   display: flex;
   flex-wrap: wrap;
-  justify-content:right;
-padding:0px;
 }
 
 .contact{
@@ -221,9 +240,11 @@ padding:0px;
 
 .aboutmebox{
   height: 100vh;
-  width: 95vw;
-  margin: 10px;
-  background-color:lightpink;
+    width: 110vw;
+    margin: 10px;
+    background-color: lightpink;
+  padding-left: 20px;
+  
   
 }
 
@@ -251,10 +272,10 @@ padding:0px;
 
 .topnav {
   background-image: url("image/bluewood.jpg");
-  width: 1000vw;
+  width: 100vw;
   position:relative;
   margin:0 auto;
-
+  padding-left:400px;
 
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   display: inline-block;
@@ -271,6 +292,7 @@ padding:0px;
   border-radius: 15px;   
   display: inline-block;
 
+
 }
 
 div.d {
@@ -285,7 +307,7 @@ div.bk{
   background-size:100%;
   background-repeat:no-repeat;
   height:100vh;
-  width:90vw;
+  width:100vw;
   
 }
 
@@ -293,7 +315,6 @@ div.bk{
 
 div.wk{
   background-color:white;
-  /*background-image: url("image/bluewood.jpg");*/
   background-repeat: No-repeat;
   height:150vh;
   width:95vw;
@@ -312,6 +333,7 @@ div.wk{
   border-radius:35px;
 border:solid 5px blue;
 margin:10px;
+padding:10px;
 
 }
 
@@ -335,6 +357,7 @@ position:sticky;
 border-radius:35px;
 border:solid 5px blue;
 margin:10px;
+padding:10px;
 
 }
 
@@ -348,9 +371,10 @@ margin:10px;
   border-radius:35px;
 border:solid 5px blue;
 margin:10px;
-
+padding:10px;
 }
-para6{
+
+.para6{
   font-family: 'Pragati Narrow', sans-serif;
   font-size:50px;
  background-color:lightpink;
