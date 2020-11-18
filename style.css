@@ -296,7 +296,7 @@ body {
 /* navigation section*/
 .topnav {
   background-image: url("image/bluewood.jpg");
-  width: 100vw;
+  width: 100%;
   position:relative;
   margin:0 auto;
   padding-left:300px;
@@ -472,6 +472,4 @@ background-color:lightblue;
 opacity:0.5;
 }
 
-
-  
 
