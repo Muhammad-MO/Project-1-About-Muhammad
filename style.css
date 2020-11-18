@@ -24,7 +24,7 @@ body {
 /* Margin for "Step into the world"*/
 .margin{
   margin-top:0px;
-  margin-bottom:0px;
+  margin-bottom:10px;
   font-size: 50px;
   background-color:lightskyblue;
   padding-top:30px;
@@ -66,19 +66,41 @@ body {
   25%  {background-color:#F18DFF;}
   50%  {background-color:#FFDF81;}
   100% {background-color:#B7E077;}
-  
+
 }
+
+@keyframes wk{
+
+  0%   {background-color:lightskyblue;}
+  25%  {background-color:#F18DFF;}
+  50%  {background-color:#FFDF81;}
+  100% {background-color:#B7E077;}
+
+}
+@keyframes header2{
+
+  0%   {background-color:lightskyblue;}
+  25%  {background-color:#F18DFF;}
+  50%  {background-color:#FFDF81;}
+  100% {background-color:#B7E077;}
+
+}
+
+
+
 /* Container for home page*/
 .container{
   
   height: 100vh;
-  width: 100vw;
+  width: 95vw;
   display: flex;
   flex-wrap: wrap; 
   background-color:lightblue;
   background-repeat: No-repeat;
-  padding-left:100px;
-  top:10px;
+  padding-left:70px;
+  border:solid black 5px;
+  border-radius: 20px;
+  
 }
 .container2{
   
@@ -135,12 +157,15 @@ body {
 
 .box {
   height: 350px;
-  width: 250px;
+  width: 300px;
   margin: 10px;
-  position: relative;
-  top:150px;
+  position:relative;
+  top:200px;
+  left:70px;
   border-radius:20px;
   border:10px solid#0A2591;
+  
+  top:100;
  
 }
 
@@ -154,6 +179,7 @@ body {
   background-image: url("image/muhammad.jpg");
   background-repeat: No-repeat;
  background-position:center;
+ background-size:100%;
 }
 
 .pic2{
@@ -225,7 +251,7 @@ body {
   background-image: url("image/pancake.png");
   background-repeat: No-repeat;
  background-position:center;
- background-size:120%;
+ background-size:120%;s
  
 }
 
@@ -273,7 +299,7 @@ body {
   width: 100vw;
   position:relative;
   margin:0 auto;
-  padding-left:400px;
+  padding-left:300px;
 
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   display: inline-block;
@@ -329,16 +355,18 @@ div.wk{
   font-family: 'Pragati Narrow', sans-serif;
   font-size:30px; 
   bottom:-10vh;
+  position: relative;
 }
 
 /*
 .para3{
   font-family: 'Pragati Narrow', sans-serif;
   font-size:30px;
-  bottom:10vh;*/
+  bottom:10vh;
+}*/
 
   
-}
+
 /* paragraphs box for "Work Experience" Section*/
 
 .para{
@@ -370,7 +398,7 @@ padding:10px;
   font-family: 'Pragati Narrow', sans-serif;
   font-size:50px;
   bottom:10vh;
-  background-color:yellow;
+  background-color:#05ABED;
   border-radius:35px;
 border:solid 5px blue;
 margin:10px;
@@ -399,6 +427,7 @@ position:sticky;
 a:link {
   color:black;
   text-decoration: none;
+  font-size:40px;
 }
 
 a:active {
@@ -414,7 +443,10 @@ a:active {
   color:black;
   margin:10px;
   padding:10px;
-  border:5px solid #FF69D4
+  border:5px solid #FF69D4;
+  width:400px;
+  height:100px;
+
   
 }
 
@@ -428,6 +460,8 @@ a:active {
   margin:10px;
   padding:10px;
   border:5px solid#05ABED;
+  width:400px;
+  height:100px;
 
 }
 
@@ -438,19 +472,6 @@ background-color:lightblue;
 opacity:0.5;
 }
 
-@media only screen and (min-width: 600px) {
-  /* For tablets: */
-  .col-s-1 {width: 8.33%;}
-  .col-s-2 {width: 16.66%;}
-  .col-s-3 {width: 25%;}
-  .col-s-4 {width: 33.33%;}
-  .col-s-5 {width: 41.66%;}
-  .col-s-6 {width: 50%;}
-  .col-s-7 {width: 58.33%;}
-  .col-s-8 {width: 66.66%;}
-  .col-s-9 {width: 75%;}
-  .col-s-10 {width: 83.33%;}
-  .col-s-11 {width: 91.66%;}
-  .col-s-12 {width: 100%;}
 
-}
+  
+
