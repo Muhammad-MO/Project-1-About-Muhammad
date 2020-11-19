@@ -26,11 +26,6 @@ position:relative;
     display: inline-block;
 }
 
-.nav-link.hover{
-
-color:yellow;
-opacity: 1.0;
-}
 .background{
   background-color:white;
   padding-left:30px;
@@ -44,6 +39,8 @@ opacity: 1.0;
   border-radius: 15px;
   border:solid black 10px;
   margin:10px;
+  animation-name:bkgrnd2;
+  animation-duration:15s;
 }
 
 .background3{
@@ -54,7 +51,8 @@ opacity: 1.0;
   border-radius: 15px;
   border:solid black 10px;
   margin:10px;
-  
+  animation-name:bkgrnd3;
+  animation-duration:15s;
   
 }
 .background4{
@@ -65,8 +63,32 @@ opacity: 1.0;
   border-radius: 15px;
   border:solid black 10px;
   margin:10px;
-  
+  animation-name:bkgrnd4;
+  animation-duration:15s;
 }
+@keyframes bkgrnd2{
+
+  0%   {background-color:lightblue;}
+  25%  {background-color: #52CFE7;}
+  50%  {background-color: lightgray;}
+  100% {background-color:lightpink;}
+}
+
+@keyframes bkgrnd3{
+  0%   {background-color:#77CCEE;}
+  25%  {background-color: #52CFE7;}
+  50%  {background-color: lightgray;}
+  100% {background-color:lightpink;}
+}
+
+@keyframes bkgrnd4{
+  0%   {background-color:#80D7EB;}
+  25%  {background-color: #52CFE7;}
+  50%  {background-color: blue;}
+  100% {background-color: lightpink;}
+}
+
+
 
 
 .round{
@@ -120,9 +142,25 @@ video {
   }
 
   .a:hover {
-    color:red;
+  opacity:1.0;
     
   }
 
  
-
+  .box {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;  
+  }
+  
+  @keyframes example {
+    0%   {background-color: red; left:0px; top:0px;}
+    25%  {background-color: blue; left:0px; top:200px;}
+    50%  {background-color: green; left:200px; top:200px;}
+    75%  {background-color: yellow; left:200px; top:0px;}
+    100% {background-color: red; left:0px; top:0px;}
+  }
