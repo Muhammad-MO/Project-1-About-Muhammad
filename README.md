@@ -18,33 +18,35 @@ The goal of the site is to enable the user to find out interesting and useful fa
 3. Bootstrap 
 
 # Features
-The overall website's look is achieved as planned. Improvements could be made to each pages by putting in animations and adding more sections
+The overall website's look is achieved as planned. 
+Users are able to navigate to the different pages of the site and external links will open in a different tab
 
+# Features left to implement
+The website did not respond particularly well to iphone 6/7/8 and plus models particularly well
 
 # Testing
 The mouser over function turns opaque when moused over and the button changes color after being clicked.
 
 The page was built with flexbox function in mind and works as intended
 
-The "My Favourite Website" section has icons which will bring the user to 5 different websites when being clicked and the boxes turns opaque when being hovered
+The "My Favourite Website" section has links which will bring the user to 6 different websites when being clicked
 
 The page has a total of 4 seperate sections and the links work as attended
 
-The Animation was planned so that the top part of the page will change in color over 15 seconds
+The video played out accordingly
+
+The website responded to different browser sizes
 
 
 # Deployment
+the site can be accessed via [ https://muhammad-mo.github.io/Project-1-About-Muhammad/]
 
 # Content
 
 All content was authored by me
 
 # Media
-Pictures and Icon was taken from the following
-
-[https://www.pexels.com] for Blue Wood background
-[https://www.icons8.com] or the icons on the "My Favourite Websites" page.
-
+Pictures were taken from personal library
 
 
 

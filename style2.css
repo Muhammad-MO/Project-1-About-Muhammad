@@ -24,9 +24,13 @@ position:relative;
     font-size: 40px;
     border-radius: 15px;   
     display: inline-block;
-  
- 
-  }
+}
+
+.nav-link.hover{
+
+color:yellow;
+opacity: 1.0;
+}
 .background{
   background-color:white;
   padding-left:30px;
@@ -116,7 +120,7 @@ video {
   }
 
   .a:hover {
-    color:lightblue;
+    color:red;
     
   }
 
