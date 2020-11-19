@@ -4,9 +4,13 @@ I took the opportunity to create an on-line resume that will showcase my current
 I decided to built an online-resume because It is something that I feel that I can build on after the course and further demonstrate my technical abilities as a programmer.
 I decided to go for a simple, fresh and easy to navigate webpage so that the user can easily find out facts about myself. I chose a blue theme because blue is my favourite color
 
+(https://octodex.github.com/image/muhammad.jpg)
+
 # demo link
 
-CLick on the link to navigate to my page
+Click on the link to navigate to my page
+
+the site can be accessed via [ https://muhammad-mo.github.io/Project-1-About-Muhammad/]
 
 # User Interface
 The goal of the site is to enable the user to find out interesting and useful facts about me without any hassle
@@ -22,7 +26,7 @@ The overall website's look is achieved as planned.
 Users are able to navigate to the different pages of the site and external links will open in a different tab
 
 # Features left to implement
-The website did not respond particularly well to iphone 6/7/8 and plus models particularly well
+The website did not respond particularly well to iphone 6/7/8 and plus models particularly well and this will need to be further developed
 
 # Testing
 The mouser over function turns opaque when moused over and the button changes color after being clicked.
@@ -39,7 +43,7 @@ The website responded to different browser sizes
 
 
 # Deployment
-the site can be accessed via [ https://muhammad-mo.github.io/Project-1-About-Muhammad/]
+
 
 # Content
 
