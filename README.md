@@ -4,11 +4,11 @@ I took the opportunity to create an on-line resume that will showcase my current
 I decided to built an online-resume because It is something that I feel that I can build on after the course and further demonstrate my technical abilities as a programmer.
 I decided to go for a simple, fresh and easy to navigate webpage so that the user can easily find out facts about myself. I chose a blue theme because blue is my favourite color
 
-![picture](image/lift.png)
+![picture](image/screenshot.png)
 
 # demo link
 
-Click <a href=https://muhammad-mo.github.io/Project-1-About-Muhammad/ target="blank">Here</a> to see a demo of the website.
+Click <a href="https://muhammad-mo.github.io/Project-1-About-Muhammad/" target="blank">Here</a> to see a demo of the website.
 
 
 
