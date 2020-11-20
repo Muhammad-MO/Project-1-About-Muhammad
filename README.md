@@ -74,12 +74,12 @@ References were taken from the following websites
 I would like to thank the following people for contributing ideas and their guidance
 during the tedious troubleshooting times
 
-1.Ariff
-2.Malcolm
-3.Paul
-4.Shun
-5.Alex
-6.Classmates of batch 10
+1.Ariff</br>
+2.Malcolm</br>
+3.Paul</br>
+4.Shun</br>
+5.Alex</br>
+6.Classmates of batch 10</br>
 7.Kelly (TGC)
 
 
