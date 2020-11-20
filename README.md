@@ -4,7 +4,7 @@ I took the opportunity to create an on-line resume that will showcase my current
 I decided to built an online-resume because It is something that I feel that I can build on after the course and further demonstrate my technical abilities as a programmer.
 I decided to go for a simple, fresh and easy to navigate webpage so that the user can easily find out facts about myself. I chose a blue theme because blue is my favourite color
 
-
+![picture](image/lift.png)
 
 # demo link
 
@@ -24,23 +24,23 @@ The goal of the site is to enable the user to find out interesting and useful fa
 # Features
 The overall website's look is achieved as planned. 
 Users are able to navigate to the different pages of the site and external links will open in a different tab
-Users will be able to see the color animation of the background pages changing into different shades of blue
+Users will be able to download a copy of the resume
+A favcion was implemented for the icon to appear on the browser
 
 # Features left to implement
-The website did not respond particularly well to iphone 6/7/8 and plus models particularly well and this will need to be further developed
+A form for users to send in their details could be implented in the near future
+Future coding projetcs can be uploaaded for potentiak employers to  access my coding skills
 
 # Testing
-The mouser over function turns opaque when moused over and the button changes color after being clicked.
+All links were tested and brought the user to an externa page
 
 The page was built with flexbox function in mind and works as intended
 
-The "My Favourite Website" section has links which will bring the user to 6 different websites when being clicked
-
 The page has a total of 4 seperate sections and the links work as intended
 
-The video played out accordingly on auto loop
+The youtubevideo played out accordingly
 
-The youtube video is able to be played
+The Resume is downloadable
 
 The website responded to different browser sizes
 
@@ -52,7 +52,8 @@ The code went through W3 validator
 My site was deployed using Github's paltform via this link
 [ https://muhammad-mo.github.io/Project-1-About-Muhammad/]
 
-The one difference in the deployed version is that the video is not shown in the index page.
+The one difference in the deployed version is that the cards under "My Favourite Website" did not appear in-line when
+the page was deployed
 
 
 # Content
@@ -60,12 +61,15 @@ All content was authored by me
 
 # Media
 Pictures were taken from personal library
+Website icons and pictures were taken from the respective websites
 
 # Credit
 References were taken from the following websites
 
 1. https://www.stackoverflow.com
 2. https://www.w3schools.com
+3. https://www.w3.org/
+4. https://getbootstrap.com/
 
 I would like to thank the following people for contributing ideas and their guidance
 during the tedious troubleshooting times
@@ -76,6 +80,7 @@ during the tedious troubleshooting times
 4.Shun
 5.Alex
 6.Classmates of batch 10
+7.Kelly (TGC)
 
 
 
