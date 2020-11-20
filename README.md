@@ -8,9 +8,9 @@ I decided to go for a simple, fresh and easy to navigate webpage so that the use
 
 # demo link
 
-Click on the link to navigate to my page
+Click <a class="nav-link"  href="index.html">Here<span class="sr-only">(current)</span></a>
 
-the site can be accessed via [ https://muhammad-mo.github.io/Project-1-About-Muhammad/]
+
 
 # User Interface
 The goal of the site is to enable the user to find out interesting and useful facts about me without any hassle
