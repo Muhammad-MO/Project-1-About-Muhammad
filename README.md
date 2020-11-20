@@ -8,7 +8,7 @@ I decided to go for a simple, fresh and easy to navigate webpage so that the use
 
 # demo link
 
-Click <a class="nav-link"  href="index.html">Here<span class="sr-only">(current)</span></a>
+Click <a class="nav-link"  href="https://muhammad-mo.github.io/Project-1-About-Muhammad/" target="blank">Here</a> to see a demo of the website.
 
 
 
