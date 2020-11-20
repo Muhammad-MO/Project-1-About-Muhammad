@@ -38,9 +38,13 @@ The "My Favourite Website" section has links which will bring the user to 6 diff
 
 The page has a total of 4 seperate sections and the links work as intended
 
-The video played out accordingly
+The video played out accordingly on auto loop
+
+The youtube video is able to be played
 
 The website responded to different browser sizes
+
+The code went through W3 validator
 
 
 # Deployment
