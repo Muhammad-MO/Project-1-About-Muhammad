@@ -9,6 +9,8 @@ h1{
  
 }
 
+/*style for favicon*/
+
 .icon{
   position:relative;
   left:0;
@@ -20,13 +22,10 @@ h1{
 
 .nav-link{
     
- 
     text-decoration: none;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 30px;
-    color: black;
-     
-     
+    color: black;    
   
 }
 .navbar-toggler{
@@ -39,7 +38,7 @@ h1{
 
   color:black;
 }
-.navbar-
+/*paading and margin settings for container*/
 .px-5 {
   padding-left: (spacer * 3.0) 
   
@@ -59,118 +58,7 @@ px-2{
   padding-right:(spacer * 0.5)
 }
 
-.background2{
-  background-color:lightblue;
-  font-size:50px;
-  padding-left:100px;
-  width:100vw;
-  border-radius: 15px;
-  border:solid black 3px;
-  margin:10px;
-  animation-name:bkgrnd2;
-  animation-duration:15s;
-  padding-top:20px;
-  padding-bottom:20px;
-  
-}
-
-.background3{
-  background-color:#77CCEE;
-  font-size:30px;
-  padding-left:100px;
-  width:100vw;
-  border-radius: 15px;
-  border:solid black 3px;
-  margin:10px;
-  animation-name:bkgrnd3;
-  animation-duration:15s;
-  padding-top:20px;
-  padding-bottom:20px;
-  
-}
-.background4{
-  background-color:#80D7EB;
-  font-size:30px;
-  padding-left:100px;
-  width:100vw;
-  border-radius: 15px;
-  border:solid black 3px;
-  margin:10px;
-  animation-name:bkgrnd4;
-  animation-duration:15s;
-  padding-top:20px;
-  padding-bottom:20px;
-  
-}
-@keyframes bkgrnd2{
-
-  0%   {background-color:lightblue;}
-  25%  {background-color: #52CFE7;}
-  50%  {background-color: lightgray;}
-  100% {background-color:lightpink;}
-}
-
-@keyframes bkgrnd3{
-  0%   {background-color:#77CCEE;}
-  25%  {background-color: #52CFE7;}
-  50%  {background-color: lightgray;}
-  100% {background-color:lightyellow;}
-}
-
-@keyframes bkgrnd4{
-  0%   {background-color:#80D7EB;}
-  25%  {background-color: #52CFE7;}
-  50%  {background-color:white;}
-  100% {background-color: lightpink;}
-}
-
-
-
-
-.round{
-    border-radius: 15px;
-    background-color:white;
-    border:solid black 3px;
-    width:250px;
-    height:400px;
-    padding:10px;
-    margin:10px;
-    left:150px;
-
-}
-/* video style for "About Me" page*/
-video {
-    width:960vw;
-    
-   }
-/*section for about me box*/
-   
-   
-/* Contact portion on About me*/
-   #contact{
-    height:40vh;
-    width:100vw;
-    background-color:lightblue;
-    padding-left:100px;
-    font-size:100px;
-    font-family: 'Open Sans Condensed', sans-serif;
-    
-  
-  }
-/* social media icon box*/
-  #socialmedia{
-
-    height:10vh;
-    width:20vw;
-    background-color:lightblue;
-    position:absolute;
-    left:0;
-    bottom:0;
-    font-size:40px;
-    font-family: 'Open Sans Condensed', sans-serif;
-    
-  }
-
+/* Link Styles*/
   .a:link {
     color:black;
     
@@ -181,17 +69,7 @@ video {
   opacity:1.0;
     
   }
-
- 
-  .box {
-    width: 100px;
-    height: 100px;
-    position: relative;
-    background-color: red;
-    animation-name: example;
-    animation-duration: 4s;
-    animation-iteration-count: infinite;  
-  }
+/* styles for placing text beside video in index page*/
   
 .mb-0{
   padding-left:10px;
