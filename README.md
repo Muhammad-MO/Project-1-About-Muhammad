@@ -52,8 +52,10 @@ The code went through W3 validator
 My site was deployed using Github's paltform via this link
 [ https://muhammad-mo.github.io/Project-1-About-Muhammad/]
 
-The one difference in the deployed version is that the cards under "My Favourite Website" did not appear in-line when
+1)  In the deployed version, the cards under "My Favourite Website" did not appear in-line when
 the page was deployed
+
+2) Sosial Media icons "Twitter" and "Facebook" did not appear in the deployed pages
 
 
 # Content
