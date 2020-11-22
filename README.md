@@ -46,6 +46,8 @@ The website responded to different browser sizes
 
 The code went through W3 validator
 
+Users are able to fill in the form and the button is clickable
+
 
 # Deployment
 
@@ -63,10 +65,14 @@ All content was authored by me
 
 # Media
 Pictures were taken from personal library
-Website icons and pictures were taken from the respective websites
+Website icons were taken from the respective websites
+1) https://www.flaticon.com/
+2)https://icons8.com/icons
+
+Pictures in relation to "my favourite websites" were taken from the respective websites
 
 # Credit
-References were taken from the following websites
+References and bootstrap codes were used from the following websites
 
 1. https://www.stackoverflow.com
 2. https://www.w3schools.com
