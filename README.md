@@ -66,7 +66,7 @@ All content was authored by me.
 # Media
 Pictures were taken from personal .
 Website icons were taken from the respective websites.
-1) https://www.flaticon.com/
+1) https://www.flaticon.com/ </br>
 2)https://icons8.com/icons
 
 Pictures in relation to "my favourite websites" were taken from the respective websites.
