@@ -78,3 +78,38 @@ px-2{
 
   padding-top:10px;
  }
+/* styles for form*/
+ .form-control {
+  display: block;
+  width: 80%;
+  height: calc(1.5em + .75rem + 2px);
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: black;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 2px solid;
+  border-radius: .4rem;
+  transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+/*Form Entry and styles*/
+label{
+  font-size:35px;
+}
+
+
+.btn-primary {
+  color: #fff;
+  background-color: #007bff;
+  border-color: #007bff;
+  border-radius: 10px;
+  font-size: 25px;
+  margin-bottom:10px;
+}
+
+.form-control{
+  width:50vh;
+}
