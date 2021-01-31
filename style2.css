@@ -56,6 +56,13 @@ px-2{
   padding-right:(spacer * 0.5)
 }
 
+
+.border-secondary {
+  color:white;
+}
+.border {
+    border: solid 0.1px;
+}
  
 /* styles for placing text beside video in index page*/
   
