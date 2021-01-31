@@ -46,6 +46,12 @@ The code went through W3 validator.
 
 Users are able to fill in the form and the button is clickable.
 
+# Wireframe Design
+
+The design and structure of the webpage was planned to be like this. 
+![picture](image/wireframe.png)
+
+
 # Deployment
 My site was deployed using Github's paltform via this link
 [ https://muhammad-mo.github.io/Project-1-About-Muhammad/]
