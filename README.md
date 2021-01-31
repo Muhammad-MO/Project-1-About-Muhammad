@@ -51,6 +51,13 @@ Users are able to fill in the form and the button is clickable.
 # Wireframe Design
 
 The design and structure of the webpage was planned to be like this. 
+![picture](image/originalwireframe.png)
+
+The final product of the different webpages came out as intended displaying an
+1) Welcome page
+2) About me page
+3) Experience page
+4) Favourite website page
 ![picture](image/wireframe.png)
 
 
