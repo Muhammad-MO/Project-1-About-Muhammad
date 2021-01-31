@@ -53,7 +53,7 @@ Users are able to fill in the form and the button is clickable.
 The design and structure of the webpage was planned to be like this. 
 ![picture](image/originalwireframe.png)
 
-The final product of the different webpages came out as intended displaying an
+The final product of the different webpages came out as intended displaying a
 1) Welcome page
 2) About me page
 3) Experience page
@@ -73,7 +73,7 @@ the page was deployed.
 All content was authored by me.
 
 # Media
-Pictures were taken from personal .
+Pictures were taken from personal drive .
 Website icons were taken from the respective websites.
 1) https://www.flaticon.com </br>
 2) https://icons8.com/icons
