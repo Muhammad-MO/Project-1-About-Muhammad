@@ -10,8 +10,6 @@ I decided to go for a simple, fresh and easy to navigate webpage so that the use
 
 Click <a href="https://muhammad-mo.github.io/Project-1-About-Muhammad/" target="blank">Here</a> to see a demo of the website.
 
-
-
 # User Interface
 The goal of the site is to enable the user to find out interesting and useful facts about me without any hassle.
 
@@ -48,9 +46,7 @@ The code went through W3 validator.
 
 Users are able to fill in the form and the button is clickable.
 
-
 # Deployment
-
 My site was deployed using Github's paltform via this link
 [ https://muhammad-mo.github.io/Project-1-About-Muhammad/]
 
@@ -58,8 +54,6 @@ My site was deployed using Github's paltform via this link
 the page was deployed.
 
 2) Social Media icons "Twitter" did not appear in the deployed pages.
-
-
 # Content
 All content was authored by me.
 
