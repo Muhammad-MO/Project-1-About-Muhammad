@@ -27,7 +27,7 @@
   opacity: 0.3;
   border:2px solid black;
 }
-
+/* button toggler style*/
 .button{
 
   color:black;
@@ -42,17 +42,8 @@ mt-4{
 
 margin-top:(spacer * 1.5)
 }
-px-4{
 
-  padding-right:(spacer * 1.5)
-}
-
-px-2{
-
-  padding-right:(spacer * 0.5)
-}
-
-
+/*Picture border style*/
 .border-secondary {
   color:white;
 }
@@ -91,7 +82,11 @@ label{
   font-size:35px;
 }
 
+.form-control{
+  width:50vh;
+}
 
+/*card button style*/
 .btn-primary {
   color: #fff;
   background-color: #007bff;
@@ -101,6 +96,3 @@ label{
   margin-bottom:10px;
 }
 
-.form-control{
-  width:50vh;
-}
