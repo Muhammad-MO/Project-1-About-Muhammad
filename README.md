@@ -30,6 +30,8 @@ A favcion was implemented for the icon to appear on the browser.
 Future coding projetcs can be uploaaded for potential employers to  access my coding skills.
 
 # Testing
+
+
 All links were tested and brought the user to an external page.
 
 The page was built with flexbox function in mind and works as intended.
