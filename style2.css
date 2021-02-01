@@ -1,7 +1,4 @@
 
-
-
-
 /*style for favicon*/
 
 .icon{
@@ -19,9 +16,8 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 30px;
     color:black;
-  
-}
 
+}
 .navbar-toggler{
   
   opacity: 0.3;
@@ -35,11 +31,9 @@
 /*paading and margin settings for container*/
 .px-5 {
   padding-left: (spacer * 3.0) 
-  
 }
 
 mt-4{
-
 margin-top:(spacer * 1.5)
 }
 
