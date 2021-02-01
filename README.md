@@ -43,6 +43,9 @@ A favcion was implemented for the icon to appear on the browser.
 Future coding projetcs can be uploaaded for potential employers to  access my coding skills.
 
 # Testing
+The code was put through th Jigsaw and W3 markup validator and the results are in the screenshot below
+![picture](image/originalwireframe.png)
+
 
 All links were tested and brought the user to an external page.
 
