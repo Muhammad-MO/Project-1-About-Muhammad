@@ -59,8 +59,6 @@ The Resume is downloadable.
 
 The website responded to different browser sizes.
 
-The code went through W3 validator.
-
 Users are able to fill in the form and the button is clickable.
 
 # Wireframe Design
