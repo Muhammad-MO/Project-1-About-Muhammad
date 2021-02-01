@@ -50,8 +50,9 @@ margin-top:(spacer * 1.5)
 .mb-0{
   padding-left:10px;
 }
- .iframe{
-
+ iframe{
+  width:500px;
+  height:500px;
   padding-top:10px;
  }
 /* styles for form*/
