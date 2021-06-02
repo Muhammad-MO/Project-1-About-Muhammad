@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[21],{912:function(e,n,t){"use strict";t.r(n);var r=t(18),i=t(20);function c(){var e=function(e,n){n||(n=e.slice(0));return Object.freeze(Object.defineProperties(e,{raw:{value:Object.freeze(n)}}))}(["palette.background"]);return c=function(){return e},e}var o=r.d.div.withConfig({displayName:"ModeInline"})(["width:100%;height:100%;background-color:",";"],Object(i.c)(c()));n.default=o}}]);
+//# sourceMappingURL=21.js.map

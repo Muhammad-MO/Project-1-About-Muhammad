@@ -86,3 +86,17 @@ label{
   margin-bottom:10px;
 }
 
+.box {
+
+  width: 300px;
+  height: 300px;
+  background-color: #007bff46;
+  margin:20px;
+  border-radius: 30px;
+}
+
+.icon {
+
+  text-align: center;
+
+}
