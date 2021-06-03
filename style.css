@@ -98,11 +98,9 @@ label{
 .box2{
 
   width: 500px;
-  height: 400px;
+  height: 200px;
   background-color:transparent;
-
   margin:20px;
-
   border-radius: 30px;
   font-family: 'Josefin Sans', sans-serif;
 }
@@ -125,23 +123,23 @@ body {
 .box3{
 
   width: 200px;
-  height: 200px;
+  height: 250px;
   background-color:#5b8f9c;
   opacity:0.;
   margin:40px;
   padding:20px;
   font-family: 'Josefin Sans', sans-serif;
   font-family: 'Josefin Sans', sans-serif;
-  -webkit-transform: rotate(-6deg);
-  -o-transform: rotate(-6deg);
-  -moz-transform: rotate(-6deg);
+  -webkit-transform: rotate(6deg);
+  -o-transform: rotate(6deg);
+  -moz-transform: rotate(6deg);
   
 }
 
 .box4{
 
   width: 200px;
-  height: 200px;
+  height: 250px;
   background-color:#784e98;
   opacity:0.8;
   margin:40px;
@@ -154,6 +152,38 @@ body {
 
 }
 
+.box5{
+
+  width: 400px;
+  height: 450px;
+  background-color:white;
+  opacity:0.8;
+  margin:40px;
+  padding:20px;
+  font-family: 'Josefin Sans', sans-serif;
+  -webkit-transform: rotate(-6deg);
+  -o-transform: rotate(-6deg);
+  -moz-transform: rotate(-6deg);
+
+}
+
+.box6{
+
+  width: 400px;
+  height: 450px;
+  background-color:white;
+  opacity:0.8;
+  margin:40px;
+  padding:20px;
+  font-family: 'Josefin Sans', sans-serif;
+  -webkit-transform: rotate(6deg);
+  -o-transform: rotate(6deg);
+  -moz-transform: rotate(6deg);
+
+}
+
+
+
 .svg-inline--fa {
   display: inline-block;
   font-size: 30px;
@@ -164,4 +194,16 @@ body {
   -webkit-transform: rotate(-6deg);
   -o-transform: rotate(-6deg);
   -moz-transform: rotate(-6deg);
+}
+
+.svg-inline--fa.fa-w-14 {
+  width: 5em;
+  height:5em;
+}
+
+
+img.d-block.w-100{
+
+  width: 70px;
+  height:700px;
 }
