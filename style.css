@@ -44,9 +44,9 @@
   padding-left:10px;
 }
  iframe{
-  width:500px;
-  height:500px;
-  padding-top:10px;
+  width:300px;
+  height:400px;
+  padding:10px;
   border:0;
 
  }
@@ -88,15 +88,79 @@ label{
 
 .box {
 
-  width: 300px;
-  height: 300px;
-  background-color: #007bff46;
+  width: 400px;
+  height: 400px;
+  background-color: transparent;
   margin:20px;
   border-radius: 30px;
 }
 
+.box2{
+
+  width: 500px;
+  height: 400px;
+  background-color:transparent;
+  opacity:1.0;
+  margin:20px;
+  border-radius: 30px;
+  font-family: 'Josefin Sans', sans-serif;
+}
 .icon {
 
   text-align: center;
 
+}
+
+body {
+
+
+  background-image: url(image/beach.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+
+
+}
+
+.box3{
+
+  width: 200px;
+  height: 200px;
+  background-color:lightblue;
+  opacity:1.0;
+  margin:40px;
+  padding:20px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
+  -webkit-transform: rotate(-6deg);
+  -o-transform: rotate(-6deg);
+  -moz-transform: rotate(-6deg);
+  
+}
+
+.box4{
+
+  width: 200px;
+  height: 200px;
+  background-color:yellow;
+  opacity:1.0;
+  margin:40px;
+  padding:20px;
+  
+  font-family: 'Josefin Sans', sans-serif;
+  -webkit-transform: rotate(-6deg);
+  -o-transform: rotate(-6deg);
+  -moz-transform: rotate(-6deg);
+
+}
+
+.svg-inline--fa {
+  display: inline-block;
+  font-size: 30px;
+  height: 1em;
+  overflow: visible;
+  vertical-align: -.125em;
+  font-family: 'Josefin Sans', sans-serif;
+  -webkit-transform: rotate(-6deg);
+  -o-transform: rotate(-6deg);
+  -moz-transform: rotate(-6deg);
 }
