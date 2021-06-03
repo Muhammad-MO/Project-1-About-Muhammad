@@ -13,7 +13,7 @@
 .nav-link{
     
     text-decoration: none;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
     font-size: 30px;
     color:black;
 
@@ -44,8 +44,8 @@
   padding-left:10px;
 }
  iframe{
-  width:300px;
-  height:400px;
+  width:400px;
+  height:500px;
   padding:10px;
   border:0;
 
@@ -155,7 +155,7 @@ body {
 .box5{
 
   width: 400px;
-  height: 450px;
+  height: 550px;
   background-color:white;
   opacity:0.8;
   margin:40px;
@@ -170,7 +170,7 @@ body {
 .box6{
 
   width: 400px;
-  height: 450px;
+  height: 550px;
   background-color:white;
   opacity:0.8;
   margin:40px;
@@ -181,6 +181,25 @@ body {
   -moz-transform: rotate(6deg);
 
 }
+
+.box7{
+
+  width: 400px;
+  height: 550px;
+  background-color:white;
+  opacity:0.8;
+  margin:40px;
+  padding:20px;
+  font-family: 'Josefin Sans', sans-serif;
+  -webkit-transform: rotate(6deg);
+  -o-transform: rotate(6deg);
+  -moz-transform: rotate(6deg);
+
+}
+
+
+
+
 
 
 
