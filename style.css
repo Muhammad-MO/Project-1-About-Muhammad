@@ -100,8 +100,9 @@ label{
   width: 500px;
   height: 400px;
   background-color:transparent;
-  opacity:1.0;
+
   margin:20px;
+
   border-radius: 30px;
   font-family: 'Josefin Sans', sans-serif;
 }
@@ -114,7 +115,7 @@ label{
 body {
 
 
-  background-image: url(image/beach.jpg);
+  background-image: url(image/background.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 
@@ -125,8 +126,8 @@ body {
 
   width: 200px;
   height: 200px;
-  background-color:lightblue;
-  opacity:1.0;
+  background-color:#5b8f9c;
+  opacity:0.;
   margin:40px;
   padding:20px;
   font-family: 'Josefin Sans', sans-serif;
@@ -141,8 +142,8 @@ body {
 
   width: 200px;
   height: 200px;
-  background-color:yellow;
-  opacity:1.0;
+  background-color:#784e98;
+  opacity:0.8;
   margin:40px;
   padding:20px;
   
