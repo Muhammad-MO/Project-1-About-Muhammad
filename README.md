@@ -48,25 +48,16 @@ The code was put through the  W3 markup validator and the results are in the scr
 ![picture](image/w3validator-aboutme.png)
 ![picture](image/w3validator-workexperiences.png)
 ![picture](image/w3validator-favouritewebsites.png)
+
 | Item Tested         | Result            |   Remarks                        |
 | --------------------|:-----------------:|:-------------------------------  |
-| Navbar-dropdown     | Works as intended | transforms into burger dropdown  |  
-| Log-in button       | Works as intended | bring user to login page         |  
-| Log-out button      | Works as intended | bring user to lanfing page       | 
-| Search Field        | Works as intended | User can search for their item   |  | Image               | Works as intended | Let user see details of food     |  | Add to Cart         | Works as intended | Users can add items to cart      |  | Update Quantity     | Works as intended | Users can increase qty in cart   | 
-| Remove Items        | Works as intended | Users can remove items in cart   | 
-| Total Cost          | Works as intended | The total cost is calcuated      | 
-| Checkout            | Works as intended | Users can pay for the item and sucesfuly bring them to sucess chckout page.      |  
-| Search              | Works as intended | Users can search for food        |  | Add Food            | Works as intended | Users can add to the list        |
-| Review Button.      | Works as intended | Users are able to see reviews    |
-| Add Review          | Works as intended | Users can give feedback          |
-| Delete Reviews.     | Works as intended | Users can delete reviews         |
-| admin/super user    | Works as intended |Superuser status can delete or edit food items    
-| Checkout.           | Works as intended | Users can pay for the item       |
-| Alert messages.     | Works as intended | Users will see a flash message when they - add items in cart 
-| Alert messages.     | Works as intended | Users will see a flash message when they - remove items in cart    
-| Alert messages.     | Works as intended | Users will see a flash message when they - add reviews
-| Alert messages.     | Works as intended | Users will see a flash message when they - delete reviews   
+| Navbar-dropdown     | Works as intended | transforms into burger dropdown  |   
+|Links                | Works as intended | User can navigate easily        |         
+|Social Media Links             | Works as intended | Users can go to the different social media pages
+| Responsivenes       | Works as intended | Works Well across mobile devices  | 
+| Hover button        | Works as intended | the links change in color when a mouse is hovered above    |    |  
+| Image inks          | Works as intended | Clicking on the image in "favourtie websites" brings the user to the desired webpge which opens up in a different window | 
+| Icon button         | Works as intended | Clicking on the icon brings the user back to the homepage       |  
 
 # Wireframe Design
 
@@ -88,7 +79,7 @@ My site was deployed using Github's paltform via this link
 1)  In the deployed version, the cards under "My Favourite Website" did not appear in-line when
 the page was deployed.
 
-2) Social Media icons "Twitter" did not appear in the deployed pages.
+
 
 # Content
 
