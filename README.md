@@ -52,8 +52,9 @@ The code was put through the  W3 markup validator and the results are in the scr
 | Item Tested         | Result            |   Remarks                        |
 | --------------------|:-----------------:|:-------------------------------  |
 | Navbar-dropdown     | Works as intended | transforms into burger dropdown  |   
-|Links                | Works as intended | User can navigate easily        |         
-|Social Media Links             | Works as intended | Users can go to the different social media pages
+|Links                | Works as intended | User can navigate easily through the site       |       
+|Resume Links         | Works as intended |Clicking on the resume brings user to a site where the resume can be downloaded|    
+|Social Media Links   | Works as intended | Users can go to the different social media pages
 | Responsivenes       | Works as intended | Works Well across mobile devices  | 
 | Hover button        | Works as intended | the links change in color when a mouse is hovered above    |    |  
 | Image inks          | Works as intended | Clicking on the image in "favourtie websites" brings the user to the desired webpge which opens up in a different window | 
