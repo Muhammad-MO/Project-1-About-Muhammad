@@ -48,6 +48,8 @@ The code was put through the  W3 markup validator and the results are in the scr
 ![picture](image/w3validator-aboutme.png)
 ![picture](image/w3validator-workexperiences.png)
 ![picture](image/w3validator-favouritewebsites.png)
+![picture](image/jigsawvalidator.png)
+
 
 | Item Tested         | Result            |   Remarks                        |
 | --------------------|:-----------------:|:-------------------------------  |
