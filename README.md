@@ -14,8 +14,8 @@ Specifically this project allows me to deepend my knowledge on
 6) Adjusting CSS styles to suit my website's design
 7) RUnning code through validators encourages me to apply correct syntax
 8) Applying padding and margin to text and images
-
-![picture](image/screenshot.png)
+9) Using bootstrap grid layout to position text and images
+![picture](image/indexscreen.png)
 
 # demo link
 
@@ -43,23 +43,30 @@ A favcion was implemented for the icon to appear on the browser.
 Future coding projetcs can be uploaaded for potential employers to  access my coding skills.
 
 # Testing
-The code was put through th Jigsaw and W3 markup validator and the results are in the screenshot below
-![picture](image/screenshotw3markup.png)
-![picture](image/jigsawscreenshot.png)
-
-All links were tested and brought the user to an external page.
-
-The page was built with flexbox function in mind and works as intended.
-
-The page has a total of 4 seperate sections and the links work as intended.
-
-The youtubevideo played out accordingly.
-
-The Resume is downloadable.
-
-The website responded to different browser sizes.
-
-Users are able to fill in the form and the button is clickable.
+The code was put through the  W3 markup validator and the results are in the screenshot below
+![picture](image/w3validator-index.png)
+![picture](image/w3validator-aboutme.png)
+![picture](image/w3validator-workexperiences.png)
+![picture](image/w3validator-favouritewebsites.png)
+| Item Tested         | Result            |   Remarks                        |
+| --------------------|:-----------------:|:-------------------------------  |
+| Navbar-dropdown     | Works as intended | transforms into burger dropdown  |  
+| Log-in button       | Works as intended | bring user to login page         |  
+| Log-out button      | Works as intended | bring user to lanfing page       | 
+| Search Field        | Works as intended | User can search for their item   |  | Image               | Works as intended | Let user see details of food     |  | Add to Cart         | Works as intended | Users can add items to cart      |  | Update Quantity     | Works as intended | Users can increase qty in cart   | 
+| Remove Items        | Works as intended | Users can remove items in cart   | 
+| Total Cost          | Works as intended | The total cost is calcuated      | 
+| Checkout            | Works as intended | Users can pay for the item and sucesfuly bring them to sucess chckout page.      |  
+| Search              | Works as intended | Users can search for food        |  | Add Food            | Works as intended | Users can add to the list        |
+| Review Button.      | Works as intended | Users are able to see reviews    |
+| Add Review          | Works as intended | Users can give feedback          |
+| Delete Reviews.     | Works as intended | Users can delete reviews         |
+| admin/super user    | Works as intended |Superuser status can delete or edit food items    
+| Checkout.           | Works as intended | Users can pay for the item       |
+| Alert messages.     | Works as intended | Users will see a flash message when they - add items in cart 
+| Alert messages.     | Works as intended | Users will see a flash message when they - remove items in cart    
+| Alert messages.     | Works as intended | Users will see a flash message when they - add reviews
+| Alert messages.     | Works as intended | Users will see a flash message when they - delete reviews   
 
 # Wireframe Design
 
@@ -71,7 +78,7 @@ The final product of the different webpages came out as intended displaying a
 2) About me page
 3) Experience page
 4) Favourite website page
-![picture](image/wireframe.png)
+
 
 # Deployment
 
@@ -89,11 +96,15 @@ All content was authored by me.
 
 # Media
 
-Pictures were taken from personal drive .
+Pictures were taken from a mixture of personal drive and websites
+1) https://unsplash.com/
+2) https://www.pexels.com/
+
 Website icons were taken from the respective websites.
 1) https://www.flaticon.com </br>
 2) https://icons8.com/icons
-
+3) https://fontawesome.com/
+4
 Pictures in relation to "my favourite websites" were taken from the respective websites.
 
 # Credit
