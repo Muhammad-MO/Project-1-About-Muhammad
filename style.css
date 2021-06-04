@@ -10,12 +10,17 @@
 
 /* styles for navigation bar*/
 
+.nav{
+
+
+}
 .nav-link{
     
     text-decoration: none;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 30px;
-    color:black;
+    color:#ab6d46;
+  
 
 }
 .navbar-toggler{
@@ -122,8 +127,8 @@ body {
 
 .box3{
 
-  width: 200px;
-  height: 250px;
+  width: 300px;
+  height: 450px;
   background-color:#5b8f9c;
   opacity:0.;
   margin:40px;
@@ -138,8 +143,8 @@ body {
 
 .box4{
 
-  width: 200px;
-  height: 250px;
+  width: 300px;
+  height: 450px;
   background-color:#784e98;
   opacity:0.8;
   margin:40px;
@@ -156,6 +161,21 @@ body {
 
   width: 400px;
   height: 550px;
+  background-color:transparent;
+  opacity:0.8;
+  margin:40px;
+  padding:20px;
+  font-family: 'Josefin Sans', sans-serif;
+  -webkit-transform: rotate(-6deg);
+  -o-transform: rotate(-6deg);
+  -moz-transform: rotate(-6deg);
+
+}
+
+.box5a{
+
+  width: 450px;
+  height: 550px;
   background-color:white;
   opacity:0.8;
   margin:40px;
@@ -166,6 +186,8 @@ body {
   -moz-transform: rotate(-6deg);
 
 }
+
+
 
 .box6{
 
